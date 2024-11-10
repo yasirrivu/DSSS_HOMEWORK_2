@@ -9,7 +9,6 @@ def Random_Int(min, max):
     
     Returns:
         int: A random integer between min and max.
-    
     Example:
         >>> Random_Int(1,10)
         7
